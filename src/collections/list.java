@@ -17,6 +17,8 @@ public class list {
 		li.add("we");
 		li.add("have");
 		li.add("to");
+		li.add("do");
+		li.add("it");
 		
 		for(String s:li) {
 			System.out.println(s);
