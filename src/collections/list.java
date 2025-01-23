@@ -12,6 +12,8 @@ public class list {
 		li.add("Ashish");
 		li.add("automation");
 		li.add("is so strong");
+		li.add("getup");
+		li.add("let's go");
 		
 		for(String s:li) {
 			System.out.println(s);
