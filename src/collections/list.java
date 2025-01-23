@@ -14,6 +14,9 @@ public class list {
 		li.add("is so strong");
 		li.add("getup");
 		li.add("let's go");
+		li.add("we");
+		li.add("have");
+		li.add("to");
 		
 		for(String s:li) {
 			System.out.println(s);
